@@ -1,5 +1,7 @@
 # ForoHub Challenge: Gestión de Tópicos
 
+![Badge-Spring](https://github.com/user-attachments/assets/686c0618-9afa-40b6-877e-94e51b91fabe)
+
 **ForoHub Challenge** es una aplicación Java basada en Spring Boot diseñada para ayudar a la comunidad de Alura a gestionar tópicos de discusión de manera eficiente. Este proyecto es parte del desafío organizado por Alura para demostrar el uso de tecnologías modernas en la creación y gestión de una API REST.
 
 ## Características
